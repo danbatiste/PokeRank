@@ -15,6 +15,9 @@ How many Pokémon they tie in defense (def_draws)
 
 
 # Current issues:
+If the type of a pokemon has changed in new generations, the program mixes the old and new types. Example: Sandshrew - ground, ice
+
 Uses type strengths/weaknesses of gen 8, despite the gen chosen by the user.
+
 Compares the Pokémon to itself (though this makes sense, Pokémon will fight against themselves sometimes)
 
