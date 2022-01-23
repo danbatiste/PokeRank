@@ -1,0 +1,19 @@
+﻿Type,Strong against,Weak against,Resistant to,Weak to
+Normal, –,"Rock, Steel, Ghost (no effect)",Ghost (no effect),Fighting
+Fighting,"Normal, Rock, Steel, Ice, Dark","Flying, Poison, Bug, Psychic, Fairy, Ghost (no effect)","Rock, Bug, Dark","Flying, Psychic, Fairy"
+Flying,"Fighting, Bug, Grass","Rock, Steel, Electric","Fighting, Bug, Grass, Ground (no effect)","Rock, Electric, Ice"
+Poison,"Grass, Fairy","Poison, Ground, Rock, Ghost, Steel (no effect)","Fighting, Poison, Grass, Fairy","Ground, Psychic"
+Ground,"Poison, Rock, Steel, Fire, Electric","Bug, Grass, Flying (no effect)","Poison, Rock, Electric (no effect)","Water, Grass, Ice"
+Rock,"Flying, Bug, Fire, Ice","Fighting, Ground, Steel","Normal, Flying, Poison, Fire","Fighting, Ground, Steel, Water, Grass"
+Bug,"Grass, Psychic, Dark","Fighting, Flying, Poison, Ghost, Steel, Fire, Fairy","Fighting, Ground, Grass","Flying, Rock, Fire"
+Ghost,"Ghost, Psychic","Normal (no effect), Dark","Poison, Bug, Normal (no effect), Fighting (no effect)","Ghost, Dark"
+Steel,"Rock, Ice, Fairy","Steel, Fire, Water, Electric","Normal, Flying, Rock, Bug, Steel, Grass, Psychic, Ice, Dragon, Fairy, Poison (no effect)","Fighting, Ground, Fire"
+Fire,"Bug, Steel, Grass, Ice","Rock, Fire, Water, Dragon","Bug, Steel, Fire, Grass, Ice","Ground, Rock, Water"
+Water,"Ground, Rock, Fire","Water, Grass, Dragon","Steel, Fire, Water, Ice","Grass, Electric"
+Grass,"Ground, Rock, Water","Flying, Poison, Bug, Steel, Fire, Grass, Dragon","Ground, Water, Grass, Electric","Flying, Poison, Bug, Fire, Ice"
+Electric,"Flying, Water","Grass, Electric, Dragon, Ground (no effect)","Flying, Steel, Electric",Ground
+Psychic,"Fighting, Poison","Steel, Psychic, Dark (no effect)","Fighting, Psychic","Bug, Ghost, Dark"
+Ice,"Flying, Ground, Grass, Dragon","Steel, Fire, Water, Ice",Ice,"Fighting, Rock, Steel, Fire"
+Dragon,Dragon,"Steel, Fairy (no effect)","Fire, Water, Grass, Electric","Ice, Dragon, Fairy"
+Dark,"Ghost, Psychic","Fighting, Dark, Fairy","Ghost, Dark, Psychic (no effect)","Fighting, Bug, Fairy"
+Fairy,"Fighting, Dragon, Dark","Poison, Steel, Fire","Fighting, Bug, Dark, Dragon (no effect)","Poison, Steel"
